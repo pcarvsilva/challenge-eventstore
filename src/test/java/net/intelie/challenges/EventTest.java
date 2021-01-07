@@ -14,4 +14,4 @@ public class EventTest {
         assertEquals(123L, event.timestamp());
         assertEquals("some_type", event.type());
     }
-}
+} 
